@@ -1,6 +1,7 @@
 
-let x = 'Hello'
-let y = 'World<br>'
+let x, y, z, n 
+x = ' World'
+y = 'World<br>'
 z = x + y
 n = (x + " " + y)
 document.write(z)
